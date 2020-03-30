@@ -27,6 +27,9 @@ https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=37
 - Exam Self-assessment spreadsheet from build5nines (Scroll down and chose appropriate exam spreadsheet)
 https://build5nines.com/free-oss-exam-self-assessment-tool/
 
+Microsoft Certification Study Guides from vladtalkstech
+https://vladtalkstech.com/microsoft-certification-study-guides
+
 - Main Page - Azure Documentation at docs.microsoft.com
 https://docs.Microsoft.com/azure 
 
