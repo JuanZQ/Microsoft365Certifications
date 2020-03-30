@@ -14,14 +14,14 @@ https://aka.ms/TrainCertPoster
 - MS-100 Certification Exam Page
 https://docs.microsoft.com/learn/certifications/exams/ms-100
 
-- Spring 2020 Azure Certification Updates Blog
-http://bit.ly/320n3Ak
+- MCSA, MCSD, MCSE certifications retire; with continued investment to role-based certifications (27-02-2020)
+https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375282
 
 - An Important Update on Microsoft Training and Certification (26-03-2020)
 https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375289
 
-- Propelling your career with Microsoft Azure and Pluralsight presetation at Microsoft Ignite
-https://myignite.techcommunity.microsoft.com/sessions/84325?source=sessions
+#- Propelling your career with Microsoft Azure and Pluralsight presentation at Microsoft Ignite#
+#https://myignite.techcommunity.microsoft.com/sessions/84325?source=sessions#
 
 ### Training Resources:
 - Exam Self-assessment spreadsheet from build5nines (Scroll down and chose appropriate exam spreadsheet)
