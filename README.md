@@ -18,6 +18,9 @@ https://docs.microsoft.com/learn/certifications/exams/az-103
 - Spring 2020 Azure Certification Updates Blog
 http://bit.ly/320n3Ak
 
+- An Important Update on Microsoft Training and Certification (26-03-2020)
+https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375289
+
 - Propelling your career with Microsoft Azure and Pluralsight presetation at Microsoft Ignite
 https://myignite.techcommunity.microsoft.com/sessions/84325?source=sessions
 
