@@ -12,8 +12,8 @@ https://github.com/MicrosoftLearning
 - Microsoft Learning Certification Poster
 https://aka.ms/TrainCertPoster 
 
-- AZ-103 Certification Exam Page
-https://docs.microsoft.com/learn/certifications/exams/az-103
+- MS-100 Certification Exam Page
+https://docs.microsoft.com/learn/certifications/exams/ms-100
 
 - Spring 2020 Azure Certification Updates Blog
 http://bit.ly/320n3Ak
