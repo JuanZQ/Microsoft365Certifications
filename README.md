@@ -1,7 +1,6 @@
 # Microsoft Office 365 Certifications
 Office 365 Certification Resources
 
-# Resource Document for Office 365 Certification
 ## This is a list of resources for your Office 365 Certification journey. Some of the resources were covered in the talk, while others were not.
 
 ### Certification Information:
