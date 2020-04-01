@@ -85,3 +85,11 @@ https://cloudskills.fm/039
 
 - Azure Certification Self Assessment Tool by Build5nines.com
 https://build5nines.com/free-oss-exam-self-assessment-tool/
+
+- Office 365 Certification Self Assessment Tool updated by JuanZQ
+https://github.com/JuanZQ/Assesments
+
+### Product Blogs:
+
+- Vlad Talks Tech (Vlad Catrinescu)
+https://vladtalkstech.com/category/office-365
