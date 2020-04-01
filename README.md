@@ -19,8 +19,9 @@ https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=37
 https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375289
 
 ### Training Resources:
-- Exam Self-assessment spreadsheet from build5nines (Scroll down and chose appropriate exam spreadsheet)
-https://build5nines.com/free-oss-exam-self-assessment-tool/
+
+- Office 365 Exam Self-Assessment spreadsheet updated by JuanZQ (Scroll down and chose appropriate exam spreadsheet)
+https://github.com/JuanZQ/Assesments
 
 Microsoft Certification Study Guides from vladtalkstech
 https://vladtalkstech.com/microsoft-certification-study-guides
@@ -55,10 +56,13 @@ https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/
 - Microsoft Cloud Workshop (Open Source Training)
 https://microsoftcloudworkshop.com/
 
-### Certification Blogs:
+### Certification and Product Blogs:
 
-Microsoft Certification Study Guides by Vlad Catrinescu
+- Microsoft Certification Study Guides by Vlad Catrinescu
 https://vladtalkstech.com/microsoft-certification-study-guides
+- Vlad Talks Tech (Vlad Catrinescu)
+https://vladtalkstech.com/category/office-365
+https://vladtalkstech.com/category/powershell
 
 - AZ-103 Study Guide by Josh Duffney
 http://duffney.io/AZ103-StudyGuide
@@ -77,8 +81,3 @@ https://build5nines.com/free-oss-exam-self-assessment-tool/
 
 - Office 365 Certification Self Assessment Tool updated by JuanZQ
 https://github.com/JuanZQ/Assesments
-
-### Product Blogs:
-
-- Vlad Talks Tech (Vlad Catrinescu)
-https://vladtalkstech.com/category/office-365
