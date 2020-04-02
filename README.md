@@ -48,6 +48,9 @@ https://bit.ly/azurefun
   - [AZ-300](https://myignite.techcommunity.microsoft.com/sessions/80470?source=sessions)
   
   - [AZ-301](https://myignite.techcommunity.microsoft.com/sessions/78629)
+  
+- MS-100: Managing Office 365 Identities and Requirements by Technet.vn
+https://technet.vn/2020/03/15/ms-100-managing-office-365-identities-and-requirements/
 
 ### Hands-On Resources:
 - Microsoft Azure Free Trial Signup
