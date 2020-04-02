@@ -18,6 +18,9 @@ https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=37
 - An Important Update on Microsoft Training and Certification (26-03-2020)
 https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375289
 
+- How to register and take Microsoft exam at Home
+https://technet.vn/2020/04/01/how-to-register-and-take-microsoft-exam-at-home/
+
 ### Training Resources:
 
 - Office 365 Exam Self-Assessment spreadsheet updated by JuanZQ (Scroll down and chose appropriate exam spreadsheet)
