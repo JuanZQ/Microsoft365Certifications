@@ -9,6 +9,9 @@ https://github.com/MicrosoftLearning
 - Microsoft Learning Certification Poster
 https://aka.ms/TrainCertPoster 
 
+Certification and exam offers
+https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay
+
 - MS-100 Certification Exam Page
 https://docs.microsoft.com/learn/certifications/exams/ms-100
 
