@@ -1,4 +1,4 @@
-# Microsoft Office 365 Certifications
+# Microsoft 365 Certifications
 Office 365 Certification Resources
 
 ### Certification Information:
