@@ -4,7 +4,8 @@ Office 365 Certification Resources
 ### Certification Information:
 
 - Microsoft Learning Main Page
-https://github.com/MicrosoftLearning
+(https://www.microsoft.com/es-es/learning/default.aspx)
+(https://github.com/MicrosoftLearning)
 
 - Microsoft Learning Certification Poster
 https://aka.ms/TrainCertPoster 
