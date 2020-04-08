@@ -38,35 +38,33 @@ https://vladtalkstech.com/microsoft-certification-study-guides
 - Main Page - Office 365 Documentation at docs.microsoft.com
 https://docs.Microsoft.com/Office365 
 
-- Administer infrastructure resources in Azure - Microsoft Learn
-https://docs.microsoft.com/learn/paths/administer-infrastructure-resources-in-azure/
-
-- Azure Fundamentals - Microsoft Learn
-https://bit.ly/azurefun
+- Microsoft 365 Fundamentals - Microsoft Learn
+https://docs.microsoft.com/en-us/learn/paths/m365-fundamentals/
 
 - Exam Prep Sessions at Microsoft Ignite 2019
-  - [AZ-900](https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions)
+  - [MS-100](https://myignite.techcommunity.microsoft.com/sessions/80454)
   
-  - [AZ-103](https://myignite.techcommunity.microsoft.com/sessions/80741?source=sessions)
+  - [MS-101](https://myignite.techcommunity.microsoft.com/sessions/82937)
   
-  - [AZ-203](https://myignite.techcommunity.microsoft.com/sessions/78611?source=sessions)
+  - [MS-900](https://myignite.techcommunity.microsoft.com/sessions/79853)
   
-  - [AZ-300](https://myignite.techcommunity.microsoft.com/sessions/80470?source=sessions)
-  
-  - [AZ-301](https://myignite.techcommunity.microsoft.com/sessions/78629)
-  
+  - [MS-700](https://myignite.techcommunity.microsoft.com/sessions/85219)
+      
 - MS-100: Managing Office 365 Identities and Requirements by Technet.vn
 https://technet.vn/2020/03/15/ms-100-managing-office-365-identities-and-requirements/
 
 ### Hands-On Resources:
-- Microsoft Azure Free Trial Signup
-https://azure.Microsoft.com/free 
+- Microsoft Hands-on Demos (Suspendido temporalmente por C O V I D - 1 9)
+https://www.microsoft.com/handsonlabs/demos/ 
 
-- Microsoft Learning Practice Labs for AZ 103 
-https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/
+- Centro de Aprendizaje de Office 365
+https://support.office.com/es-es/office-training-center
 
-- Microsoft Cloud Workshop (Open Source Training)
-https://microsoftcloudworkshop.com/
+- edX Microsoft Learning 
+https://www.edx.org/school/microsoft
+
+- Onboarding Messaging to Office 365 (edX)
+https://www.edx.org/course/onboarding-messaging-to-office-365
 
 ### Certification and Product Blogs:
 
@@ -75,9 +73,6 @@ https://vladtalkstech.com/microsoft-certification-study-guides
 - Vlad Talks Tech (Vlad Catrinescu)
 https://vladtalkstech.com/category/office-365
 https://vladtalkstech.com/category/powershell
-
-- AZ-103 Study Guide by Josh Duffney
-http://duffney.io/AZ103-StudyGuide
 
 - Thomas Maurer Certification Blog Posts
 https://www.thomasmaurer.ch/category/microsoft/certification/
