@@ -3,16 +3,17 @@ Office 365 Certification Resources
 
 ### Certification Information:
 
-- Microsoft Learning Main Page
-
-(https://www.microsoft.com/es-es/learning/default.aspx)
-(https://github.com/MicrosoftLearning)
+- Microsoft Learning Main Page 
+https://www.microsoft.com/es-es/learning/default.aspx
 
 - Microsoft Learning Certification Poster
 https://aka.ms/TrainCertPoster 
 
-Certification and exam offers
-https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay
+- Certificaciones Basadas en Roles
+https://www.microsoft.com/es-es/learning/certification-overview.aspx
+
+- Oferta de Certificaciones y Examenes
+https://www.microsoft.com/es-es/learning/offers.aspx#specialoffers-examreplay
 
 - MS-100 Certification Exam Page
 https://docs.microsoft.com/learn/certifications/exams/ms-100
