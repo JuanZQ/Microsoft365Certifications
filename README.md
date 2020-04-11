@@ -1,9 +1,9 @@
 # Microsoft 365 Certifications
-Office 365 Certification Resources
+Recursos para Certificaciones Microsoft 365
 
-### Certification Information:
+### Informacion de Certificacion:
 
-- Microsoft Learning Main Page 
+- Microsoft Learning Pagina Principal
 https://www.microsoft.com/es-es/learning/default.aspx
 
 - Microsoft Learning Certification Poster
@@ -76,6 +76,9 @@ https://vladtalkstech.com/category/powershell
 
 - Thomas Maurer Certification Blog Posts
 https://www.thomasmaurer.ch/category/microsoft/certification/
+
+- Office 365 for IT Pros
+https://office365itpros.com/
 
 - Exam review: AZ-900 Microsoft Azure Fundamentals by Sonia Cuff
 https://techcommunity.microsoft.com/t5/itops-talk-blog/exam-review-az-900-microsoft-azure-fundamentals/ba-p/565041
