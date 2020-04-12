@@ -12,6 +12,9 @@ https://aka.ms/TrainCertPoster
 - Certificaciones Basadas en Roles
 https://www.microsoft.com/es-es/learning/certification-overview.aspx
 
+- Ruta de certificación de Administrador
+https://docs.microsoft.com/es-es/learn/certifications/roles/administrator
+
 - Oferta de Certificaciones y Examenes
 https://www.microsoft.com/es-es/learning/offers.aspx#specialoffers-examreplay
 
@@ -26,6 +29,9 @@ https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=37
 
 - How to register and take Microsoft exam at Home
 https://technet.vn/2020/04/01/how-to-register-and-take-microsoft-exam-at-home/
+
+- Cursos populares de Office 365
+https://www.microsoft.com/es-es/learning/office365-training.aspx
 
 ### Training Resources:
 
