@@ -36,7 +36,14 @@ https://www.microsoft.com/es-es/learning/office365-training.aspx
 ### Training Resources:
 
 - Office 365 Exam Self-Assessment spreadsheet updated by JuanZQ (Scroll down and chose appropriate exam spreadsheet)
-https://github.com/JuanZQ/Assesments
+https://github.com/JuanZQ/exam-assessments
+  - [MS-100](https://github.com/JuanZQ/exam-assessments/blob/master/assessments/Exam-Msft-MS-100-Self-Assessment-JuanZapata.xlsx)
+  
+  - [MS-300](https://github.com/JuanZQ/exam-assessments/blob/master/assessments/Exam-Msft-MS-300-Self-Assessment-JuanZapata.xlsx)
+  
+  - [MS-700](https://github.com/JuanZQ/exam-assessments/blob/master/assessments/Exam-Msft-MS-700-Self-Assessment-JuanZapata.xlsx)
+  
+  - [MS-900](https://github.com/JuanZQ/exam-assessments/blob/master/assessments/Exam-Msft-MS-900-Self-Assessment-JuanZapata.xlsx)
 
 Microsoft Certification Study Guides from vladtalkstech
 https://vladtalkstech.com/microsoft-certification-study-guides
