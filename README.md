@@ -27,6 +27,15 @@ https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=37
 - An Important Update on Microsoft Training and Certification (26-03-2020)
 https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375289
 
+- Participación en Exámenes beta 
+https://docs.microsoft.com/es-es/learn/certifications/certification-exams#participaci%C3%B3n-en-ex%C3%A1menes-beta
+
+- Ofertas Especiales  Exam replay
+https://www.microsoft.com/en-us/learning/offers.aspx#specialoffers-examreplay
+
+- Precio Académico de los exámenes
+https://www.microsoft.com/es-es/learning/certification-exam-policies.aspx#policies-2
+
 - How to register and take Microsoft exam at Home
 https://technet.vn/2020/04/01/how-to-register-and-take-microsoft-exam-at-home/
 
@@ -93,14 +102,5 @@ https://www.thomasmaurer.ch/category/microsoft/certification/
 - Office 365 for IT Pros
 https://office365itpros.com/
 
-- Exam review: AZ-900 Microsoft Azure Fundamentals by Sonia Cuff
-https://techcommunity.microsoft.com/t5/itops-talk-blog/exam-review-az-900-microsoft-azure-fundamentals/ba-p/565041
-
-- Preparing for Az-900 podcast with Tim Warner and Mike Pfeiffer on CloudSkills.fm
-https://cloudskills.fm/039
-
 - Azure Certification Self Assessment Tool by Build5nines.com
 https://build5nines.com/free-oss-exam-self-assessment-tool/
-
-- Office 365 Certification Self Assessment Tool updated by JuanZQ
-https://github.com/JuanZQ/Assesments
