@@ -104,3 +104,6 @@ https://office365itpros.com/
 
 - Azure Certification Self Assessment Tool by Build5nines.com
 https://build5nines.com/free-oss-exam-self-assessment-tool/
+
+- Office 365 Reports
+https://o365reports.com/
