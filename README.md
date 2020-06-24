@@ -107,3 +107,6 @@ https://build5nines.com/free-oss-exam-self-assessment-tool/
 
 - Office 365 Reports
 https://o365reports.com/
+
+- Become Microsoft 365 Enterprise Administrator Expert
+https://blog.ahasayen.com/microsoft-365-enterprise-administrator-expert/
