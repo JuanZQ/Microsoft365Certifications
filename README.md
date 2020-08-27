@@ -110,3 +110,6 @@ https://o365reports.com/
 
 - Become Microsoft 365 Enterprise Administrator Expert
 https://blog.ahasayen.com/microsoft-365-enterprise-administrator-expert/
+
+- Office 365 & Exchange Admin's Blog (CodeTwo)
+https://www.codetwo.com/admins-blog/
